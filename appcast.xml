@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>LastikPro</title>
+        <description>LastikPro masaüstü uygulaması güncellemeleri</description>
+        <language>tr</language>
+        <!-- İlk gerçek sürüm yayınlandığında buraya <item> eklenecek.
+             Şablon ve adımlar için RELEASE.md dosyasına bakın
+             (lastikpro_mobile deposu). -->
+    </channel>
+</rss>

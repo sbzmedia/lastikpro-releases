@@ -4,8 +4,16 @@
         <title>LastikPro</title>
         <description>LastikPro masaüstü uygulaması güncellemeleri</description>
         <language>tr</language>
-        <!-- İlk gerçek sürüm yayınlandığında buraya <item> eklenecek.
-             Şablon ve adımlar için RELEASE.md dosyasına bakın
-             (lastikpro_mobile deposu). -->
+        <item>
+            <title>Sürüm 1.0.0</title>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <pubDate>Tue, 18 Aug 2026 20:36:00 +0300</pubDate>
+            <enclosure url="https://github.com/sbzmedia/lastikpro-releases/releases/download/v1.0.0/LastikPro-1.0.0-macos.zip"
+                       sparkle:edSignature="e09/mvMB09LZWCBwclZew7F+7zXdLpjg7ouc+IpBkjho1BNGynT0AXGSLHmTImxW6CU7WigmBLqZcBx8pIwpAg=="
+                       sparkle:os="macos"
+                       length="27278426"
+                       type="application/octet-stream" />
+        </item>
     </channel>
 </rss>

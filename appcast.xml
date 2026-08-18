@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>LastikPro</title>
         <description>LastikPro masaüstü uygulaması güncellemeleri</description>
@@ -9,11 +9,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <pubDate>Tue, 18 Aug 2026 20:36:00 +0300</pubDate>
-            <enclosure url="https://github.com/sbzmedia/lastikpro-releases/releases/download/v1.0.0/LastikPro-1.0.0-macos.zip"
-                       sparkle:edSignature="e09/mvMB09LZWCBwclZew7F+7zXdLpjg7ouc+IpBkjho1BNGynT0AXGSLHmTImxW6CU7WigmBLqZcBx8pIwpAg=="
-                       sparkle:os="macos"
-                       length="27278426"
-                       type="application/octet-stream" />
+            <enclosure url="https://github.com/sbzmedia/lastikpro-releases/releases/download/v1.0.0/LastikPro-1.0.0-macos.zip" sparkle:edSignature="e09/mvMB09LZWCBwclZew7F+7zXdLpjg7ouc+IpBkjho1BNGynT0AXGSLHmTImxW6CU7WigmBLqZcBx8pIwpAg==" sparkle:os="macos" length="27278426" type="application/octet-stream" />
         </item>
-    </channel>
+    <item><title>Sürüm 1.0.1</title><sparkle:version>2</sparkle:version><sparkle:shortVersionString>1.0.1</sparkle:shortVersionString><pubDate>Tue, 18 Aug 2026 18:20:44 +0000</pubDate><enclosure url="https://github.com/sbzmedia/lastikpro-releases/releases/download/v1.0.1+2/LastikPro-1.0.1-macos.zip" sparkle:edSignature="MBEFJ3xzWFtxHv8M7QeGPSxXFemMFC/vbnm4RBUFZmZdZqh3/IFgf75HXpVqKH5k0z9ihucddTCIoWUJZVFFDQ==" sparkle:os="macos" length="27143509" type="application/octet-stream" /></item></channel>
 </rss>
